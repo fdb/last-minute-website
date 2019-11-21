@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+html {
+  font-family: sans-serif;
+  font-size: 100%;
+  background: rgb(126, 220, 243);
+  color: #eee;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+a {
+  color: inherit;
+}
