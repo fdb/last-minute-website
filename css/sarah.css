@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+html {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 100%;
+  background: rgb(37, 255, 66);
+  color: black;
+
+h1 {
+  font-size: 2rem;
+}
+
+a {
+  color: black;
+}
