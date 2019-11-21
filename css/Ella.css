@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+html {
+  font-family: font-family: 'Odibee Sans', cursive;;
+  font-size: 100%;
+  background: sandybrown;
+  color: palevioletred;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+a {
+  color: inherit;
+}
